@@ -1,0 +1,9 @@
+
+
+node_modules/
+*.png
+*.jpg
+_temp/
+.env
+*.traineddata
+package-lock.json
